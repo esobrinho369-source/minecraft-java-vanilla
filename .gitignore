@@ -1,0 +1,16 @@
+# Mundos do Minecraft
+world/
+world_nether/
+world_the_end/
+
+# Arquivos gerados pelo servidor
+logs/
+crash-reports/
+eula.txt
+usercache.json
+*.log
+*.jar
+
+# Backups e arquivos temporários
+backups/
+*.tmp
