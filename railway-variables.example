@@ -1,0 +1,22 @@
+# NAO e lido automaticamente pelo Railway. Exemplos para a aba Variables.
+# A EULA so pode ser aceita pelo proprietario apos ler os termos:
+# https://aka.ms/MinecraftEULA
+# EULA=TRUE
+
+# O Dockerfile ja define os valores abaixo. Se quiser alterar pelo Railway,
+# crie variaveis com esses nomes. Variaveis do Railway prevalecem.
+# VERSION=LATEST
+# MAX_PLAYERS=10
+# INIT_MEMORY=1G
+# MAX_MEMORY=3G
+# VIEW_DISTANCE=8
+# SIMULATION_DISTANCE=6
+
+# Opcional: ativar acesso restrito aos usuarios listados; remova # e substitua:
+# WHITELIST=NomeDoJogador1,NomeDoJogador2
+
+# Opcional: operadores do servidor; remova # e substitua:
+# OPS=SeuNickMinecraft
+
+# Em caso de erro de permissoes no volume (ver README):
+# RAILWAY_RUN_UID=0
